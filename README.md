@@ -1,5 +1,5 @@
 # GPML
 This work was done by
 - Mathias Bøgebjerg, SDU, boegebjerg@imada.sdu.dk
-- Name2
+- Liping Shi, AU, liping@eng.au.dk
 - Name3
